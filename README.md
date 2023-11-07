@@ -36,21 +36,19 @@ Este projeto consiste em uma comunicação serial entre um computador (Java) e u
 Certifique-se de ajustar as portas COM no código Java e Arduino, conforme necessário, para corresponder à porta à qual o Arduino está conectado ao computador.
 
 ## Colaboradores
-<div style="display: inline-block; margin-right: 20px;">
-  <a href="https://github.com/CacauRowe">
+<a href="https://github.com/CacauRowe">
     <img src="https://avatars.githubusercontent.com/u/62967461?v=4" alt="Ana Clara Braz" style="width: 100px; border-radius: 50%">
     <br>
     Ana Clara Braz
-  </a>
-</div>
+</a>
 
-<div style="display: inline-block;">
-  <a href="https://github.com/LeandroRochAlg">
+<br>
+
+<a href="https://github.com/LeandroRochAlg">
     <img src="https://avatars.githubusercontent.com/u/87719561?v=4" alt="Leandro Rocha" style="width: 100px; border-radius: 50%">
     <br>
     Leandro Rocha
-  </a>
-</div>
+</a>
 
 <hr>
 
