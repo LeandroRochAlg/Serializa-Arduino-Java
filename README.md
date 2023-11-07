@@ -42,7 +42,7 @@ Certifique-se de ajustar as portas COM no código Java e Arduino, conforme neces
     Ana Clara Braz
 </a>
 
-<br>
+<hr>
 
 <a href="https://github.com/LeandroRochAlg" style="text-decoration: none">
     <img src="https://avatars.githubusercontent.com/u/87719561?v=4" alt="Leandro Rocha" style="width: 100px; border-radius: 50%">
