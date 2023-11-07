@@ -6,8 +6,8 @@ Este projeto consiste em uma comunicação serial entre um computador (Java) e u
 
 ## Conteúdo do Repositório
 
-- `Main.java`: Arquivo Java responsável por criar o vetor de inteiros, serializá-lo e enviá-lo para o Arduino via comunicação serial.
-- `arduino.ino`: Código Arduino que recebe os dados serializados, monta o vetor de inteiros e verifica se a soma está correta.
+- `envio/src/Main.java`: Arquivo Java responsável por criar o vetor de inteiros, serializá-lo e enviá-lo para o Arduino via comunicação serial.
+- `recebimento/arduino.ino`: Código Arduino que recebe os dados serializados, monta o vetor de inteiros e verifica se a soma está correta.
 
 ## Requisitos
 
@@ -34,5 +34,24 @@ Este projeto consiste em uma comunicação serial entre um computador (Java) e u
    - O Arduino verificará se a soma dos números recebidos está correta e exibirá uma mensagem indicando se a soma é correta ou não.
 
 Certifique-se de ajustar as portas COM no código Java e Arduino, conforme necessário, para corresponder à porta à qual o Arduino está conectado ao computador.
+
+## Colaboradores
+<div style="display: inline-block; margin-right: 20px;">
+  <a href="https://github.com/CacauRowe">
+    <img src="https://avatars.githubusercontent.com/u/62967461?v=4" alt="Ana Clara Braz" style="width: 100px; border-radius: 50%">
+    <br>
+    Ana Clara Braz
+  </a>
+</div>
+
+<div style="display: inline-block;">
+  <a href="https://github.com/LeandroRochAlg">
+    <img src="https://avatars.githubusercontent.com/u/87719561?v=4" alt="Leandro Rocha" style="width: 100px; border-radius: 50%">
+    <br>
+    Leandro Rocha
+  </a>
+</div>
+
+<hr>
 
 Divirta-se experimentando e explorando mais sobre comunicação serial Arduino-Java!
