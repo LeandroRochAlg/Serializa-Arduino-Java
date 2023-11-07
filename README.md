@@ -1,5 +1,3 @@
-# Serializa-o
-[PT] Serialização de mensagens. Envio de um vetor de inteiros quebrados em 2 bytes.
 # Projeto Arduino-Java Comunicação Serial
 
 Este projeto consiste em uma comunicação serial entre um computador (Java) e um Arduino. A ideia é enviar um vetor de inteiros desmontados de 2 em 2 bytes para o Arduino, que monta a mensagem e verifica se a soma dos números está correta. Abaixo estão os detalhes de como executar o projeto e os arquivos de código necessários.
